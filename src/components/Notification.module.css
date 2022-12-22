@@ -1,0 +1,44 @@
+.notification {
+  position: absolute;
+  top: 2px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  display: flex;
+  gap: 10rem;
+  padding: 1rem 2.5rem;
+  border-radius: 20px;
+  animation: 0.3s ease-out slide;
+}
+.success {
+  background-color: #0f0;
+  color: #000;
+}
+
+.error {
+  background-color: rgb(232, 68, 23);
+  color: #000;
+}
+
+.pending {
+  background-color: rgb(225, 238, 73);
+  color: #000;
+}
+.title {
+  text-transform: uppercase;
+  font-size: 1.5rem;
+}
+.message {
+  text-transform: uppercase;
+
+  font-size: 1.5rem;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(-50%) translateY(-3rem);
+  }
+  to {
+    transform: translateX(-50%) translateY(2px);
+  }
+}

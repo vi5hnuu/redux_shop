@@ -6,7 +6,9 @@
 html {
   font-size: 62.5%;
 }
-
+body {
+  position: relative;
+}
 ::-webkit-scrollbar {
   width: 5px;
 }

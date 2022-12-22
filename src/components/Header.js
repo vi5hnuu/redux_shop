@@ -1,13 +1,10 @@
 import classes from './Header.module.css'
-import Badge from './Badge'
+import CartButton from './CartButton'
 
 function Header() {
     return <header className={classes.header}>
         <h1>ReduxCart</h1>
-        <button className={classes.cart_btn}>
-            <span>My Cart</span>
-            <Badge className={classes.hover} count='25' />
-        </button>
+        <CartButton />
     </header>
 }
 export default Header

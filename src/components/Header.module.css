@@ -10,18 +10,3 @@
   color: #fff;
   font-size: 3.5rem;
 }
-
-.cart_btn {
-  position: relative;
-  border: 1px solid #76e2e4;
-  background-color: transparent;
-  color: #76e2e4;
-  padding: 1rem 2.5rem;
-  border-radius: 5px;
-  transition: all 1s;
-}
-.cart_btn:hover,
-.cart_btn:active {
-  color: #000;
-  background-color: #76e2e4;
-}

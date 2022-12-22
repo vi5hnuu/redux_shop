@@ -13,7 +13,8 @@
 .title {
   font-size: 2.5rem;
   letter-spacing: 0.1rem;
-  color: #fff;
+  color: #000;
+  font-weight: bold;
   display: inline-block;
   margin-right: 1.5rem;
 }
@@ -21,12 +22,12 @@
   text-transform: uppercase;
 }
 .times {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 1rem;
 }
 .quantity {
-  color: #fff;
+  color: #000;
   text-transform: uppercase;
   font-size: 2.5rem;
 }
@@ -36,18 +37,22 @@
   align-items: center;
 }
 .price_tag {
-  color: #fff;
+  color: #000;
   font-size: 1.5rem;
 }
 .price_total {
-  color: #fff;
+  color: #000;
   font-size: 2.5rem;
 }
 .price_per_item {
-  color: #fff;
+  color: #000;
   font-size: 1.5rem;
 }
-
+.description {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
 .actions {
   display: flex;
   gap: 1rem;
