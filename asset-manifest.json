@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redux_shop/static/css/main.744c8e85.css",
+    "main.js": "/redux_shop/static/js/main.a15584f3.js",
+    "static/media/instagram_icon.gif": "/redux_shop/static/media/instagram_icon.7b45b5c66dd0c38e9200.gif",
+    "static/media/whatsapp_icon.gif": "/redux_shop/static/media/whatsapp_icon.4a5028d38bfd2bad22be.gif",
+    "static/media/twitter_icon.gif": "/redux_shop/static/media/twitter_icon.3294fe2ce4c27cf5651e.gif",
+    "index.html": "/redux_shop/index.html",
+    "main.744c8e85.css.map": "/redux_shop/static/css/main.744c8e85.css.map",
+    "main.a15584f3.js.map": "/redux_shop/static/js/main.a15584f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.744c8e85.css",
+    "static/js/main.a15584f3.js"
+  ]
+}
