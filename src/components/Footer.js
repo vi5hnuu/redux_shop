@@ -12,7 +12,7 @@ function Footer() {
             <a href='https://www.linkedin.com/in/vi5hnukumar/' target='_blank' rel='noreferrer'><img src={linkedin_icon} alt='linkedin link' /></a>
             <a href='https://www.instagram.com/kvi5hnu/' target='_blank' rel='noreferrer'><img src={instagram_icon} alt='instagram link' /></a>
             <a href='https://twitter.com/vi5hnukumar' target='_blank' rel='noreferrer'><img src={twitter_icon} alt='twitter link' /></a>
-            <a href='https://api.whatsapp.com/send?phone=9785855892&text=Hello vishnu!' target='_blank' rel='noreferrer'><img src={whatsapp_icon} alt='whatsapp link' /></a>
+            <a href='https://api.whatsapp.com/send?phone=+919785855892&text=Hello vishnu!' target='_blank' rel='noreferrer'><img src={whatsapp_icon} alt='whatsapp link' /></a>
         </div>
         <div className={classes.footer_links}>
             <ul>
